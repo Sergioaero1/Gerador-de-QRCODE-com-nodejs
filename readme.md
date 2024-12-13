@@ -19,4 +19,4 @@ Como pensar em projetos por camadas
 🎯 Objetivos e Resultados Esperados
 Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
-Criar projetos nodejs que gerem multiplas dependências
+Criar projetos node.js que gerem multiplas dependências
