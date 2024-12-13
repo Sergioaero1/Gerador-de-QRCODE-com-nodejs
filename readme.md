@@ -23,4 +23,4 @@ Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
 ## Criar projetos node.js que gerem multiplas dependências
 
-# Meu Linkdn:  [Sergioaero](https://www.linkedin.com/in/sergio-eustaquio/)
+# Meu Linkdin:  [Sergioaero](https://www.linkedin.com/in/sergio-eustaquio/)
